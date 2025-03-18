@@ -1,3 +1,6 @@
 <head><h1>CSD 380 DevOps</h1></head>
-# csd-380
-CSD380-M320 DevOps
+<h2>Contributors</h2>
+<ul>
+  <li>Seth Glover</li>
+  <li>John Woods</li>
+</ul>
